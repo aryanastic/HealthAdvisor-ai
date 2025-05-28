@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const axiosInstance = axios.create({
-  baseURL: "https://healthadvisor-ai.onrender.com/api",
+  baseURL: "https://healthadvisor-ai-qk42.onrender.com/api",
   withCredentials: true,
 });
 

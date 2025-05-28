@@ -18,7 +18,7 @@ const app = express();
 
 // Middlewares
 app.use(cors({
-  origin: "https://healthadvisor-ai.onrender.com/",
+  origin: "https://healthadvisor-ai-qk42.onrender.com/",
   credentials: true,
 }));
 app.use(express.json());
