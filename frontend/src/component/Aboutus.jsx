@@ -125,7 +125,8 @@ const AboutUs = () => {
                 <i className="fab fa-github"></i>
               </a>
               <a
-                href="/portfolio"
+                href="https://aryanastic.vercel.app/"
+                target='"_blank'
                 className="text-teal-600 hover:text-teal-800 text-xl transition"
               >
                 <i className="fas fa-globe"></i>
